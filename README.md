@@ -1,2 +1,2 @@
 # Extract_api-permission-count-
-apk의 api, permission을 추출 + 
+apk의 api, permission을 추출 + 카운팅
